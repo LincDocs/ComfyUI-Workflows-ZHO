@@ -3,19 +3,10 @@
 
 <div align="center">
    
-# ComfyUI Workflows ZHO
-   
-我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
-
-
-
-
-![工作流库5K-2](https://github.com/user-attachments/assets/6dd7e332-a8d3-48c0-8d28-ef83261f84dd)
-
-
-
-<div align="left">
-
+  <h1>ComfyUI Workflows ZHO</h1>
+  <p>我的 ComfyUI 工作流合集 | My ComfyUI workflows collection</p>
+  <a src="https://github.com/user-attachments/assets/6dd7e332-a8d3-48c0-8d28-ef83261f84dd">工作流库5K-2</a>
+</div>
 
 ## 关于我
 
