@@ -34,6 +34,22 @@
 
 </details>
 
+
+## 2️⃣3️⃣ Hunyuan Video
+
+   [HUNYUAN VIDEO 1.0](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/HUNYUAN%20VIDEO%201.0%20【Zho】.json)
+
+   
+   <img width="1510" alt="截屏2024-12-20 12 23 27" src="https://github.com/user-attachments/assets/c586c23e-4661-47b0-bd22-26102e36af37" />
+
+
+
+   https://github.com/user-attachments/assets/8c103945-2926-4f0a-b8f4-d457dfac1a24
+
+
+
+
+
 ## 2️⃣2️⃣ LivePortrait Animals
 
    [LivePortrait Animals 1.0](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO/blob/main/LivePortrait%20Animals%201.0%E3%80%90Zho%E3%80%91.json)
@@ -85,7 +101,7 @@
 - [2️⃣0️⃣ 全新 SD3 Medium（5）](#2️⃣0️⃣-全新-sd3-medium5)
 - [2️⃣1️⃣ 全新 FLUX.1 DEV & SCHNELL](#2️⃣1️⃣-全新-flux1-dev--schnell)
 - [2️⃣2️⃣ LivePortrait Animals](#2️⃣2️⃣-liveportrait-animals)
-
+- [2️⃣3️⃣ Hunyuan Video](#2️⃣3️⃣-hunyuan-video)
 
 ## 0️⃣ [ComfyUI Assistant | ComfyUI 智能助手](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Assistant-GPTs)
 
@@ -611,6 +627,10 @@ https://github.com/ZHO-ZHO-ZHO/ComfyUI-APISR/assets/140084057/e6deb435-d276-4726
 
 
 ## 更新日志
+
+- 20241220
+  
+  新增 HUNYUAN VIDEO 1.0 工作流
 
 - 20240806
 
